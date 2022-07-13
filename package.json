@@ -1,0 +1,23 @@
+{
+  "name": "teste-ebac-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testingmarco/teste-ebac-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testingmarco/teste-ebac-ui/issues"
+  },
+  "homepage": "https://github.com/testingmarco/teste-ebac-ui#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
